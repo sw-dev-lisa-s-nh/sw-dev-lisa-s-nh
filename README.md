@@ -8,4 +8,4 @@
 - 💬 Ask me about:  Java, MySQL, Databases, SpringBoot (If you are a Promineo Tech Backend student, I'm here to help!  Or if not, ask anyway!)
 - 🎹  Fun facts: I play the cello, speak Spanish, love to travel, and lead worship!
 - 🌟 My super power:  Finding obscure typos in code & troubleshooting
-- 📫 How to reach me:  LinkedIn or via e-mail
+- 📫 How to reach me:  LinkedIn
