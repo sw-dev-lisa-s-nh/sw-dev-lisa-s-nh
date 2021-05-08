@@ -7,5 +7,6 @@
 - 🏫 I spend my time Mentoring Promineo Tech Back End Software Development Students, and coding!
 - 💬 Ask me about:  Java, MySQL, Databases, SpringBoot (If you are a Promineo Tech Backend student, I'm here to help!  Or if not, ask anyway!)
 - 🎹 Fun facts: I play the cello, speak Spanish, love to travel, and lead worship!
+- 🏈 Obscure random fact:  I am a Green Bay Packers shareholder!
 - 🌟 My super powers:  Finding obscure typos in code & troubleshooting
 - 📫 How to reach me:  LinkedIn
