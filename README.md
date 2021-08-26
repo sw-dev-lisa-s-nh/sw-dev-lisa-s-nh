@@ -10,7 +10,7 @@
     - 🎵 I play the cello
     - :es: speak Spanish  
     - 🗺️ love to travel          
-    - 🎶 ⛪ lead worship 
+    - ⛪ lead worship 🎶
     - :coffee: live on coffee  
 - 🏈 Obscure random fact:  I am a Green Bay Packers shareholder!
 - 🌟 My super powers:  Finding obscure typos 👀 in code & troubleshooting 💡
