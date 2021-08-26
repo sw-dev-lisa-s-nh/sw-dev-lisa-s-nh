@@ -1,8 +1,7 @@
 ### Hi there 
 
 - 👋 Greetings! I'm @sw-dev-lisa-s-nh 
-- 🌎 I’m looking for a BackEnd Web Development Job!
-- 💻 I’m currently learning new platforms for BackEnd Web Development
+- 🌎 I’m looking for a BackEnd Web Development Job! 💻 
 - 🌳 I’m branching into FrontEnd Web Development
 - 🏫 I spend my time Mentoring Promineo Tech Back End Software Development Students, and Coding! 🖥️
 - 💬 Ask me about:  Java, MySQL, Databases, & SpringBoot *** If you are a Promineo Tech student, I'm here to help; if not, ask anyway!
