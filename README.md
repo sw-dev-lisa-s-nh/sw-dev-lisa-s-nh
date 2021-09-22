@@ -1,6 +1,6 @@
 ### Hi there 
 
-- 👋 Greetings! I'm @sw-dev-lisa-s-nh  🌲 ❄️ 🌊 ⛰️ 🍂 🌻
+- 👋 Greetings! I'm @sw-dev-lisa-s-nh  🌲 ❄️ ⛰️ 🍂 🌻 🏖️
 - 🌎 I’m looking for a BackEnd Web Development Job!  
 - 🌳 I’m branching into FrontEnd Web Development
 - 🏫 I spend my time Mentoring Promineo Tech Back End Software Development Students, and Coding! 🖥️
