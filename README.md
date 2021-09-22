@@ -11,8 +11,7 @@
     - :es: speaking Spanish  
     - 🗺️ traveling
     - ⛪ leading worship 🎶
-    - :coffee: coffee  
-    - 🍣 sushi & 🍨 ice cream
+    - :coffee: coffee, 🍣 sushi, & 🍨 ice cream
     - 💭 discussing life with friends
 - 🏈 Obscure random fact:  I am a Green Bay Packers shareholder!
 - 🌟 My super powers:  Finding obscure typos 👀 in code & troubleshooting 💡
