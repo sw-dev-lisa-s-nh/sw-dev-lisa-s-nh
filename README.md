@@ -2,7 +2,7 @@
 
 - 👋 Greetings! I'm @sw-dev-lisa-s-nh  🌲 ❄️ ⛰️ 🍂 🌻 🏖️
 - 🌎 I’m looking for a Back End  or Full Stack Web Development Job!  
-- 🌳 I’m branching into FrontEnd Web Development 
+- 🌳 I’m branching into Fron tEnd Web Development 
      - 💻 after studying JavaScript on my own, I'm jumping into a Front End Coding Bootcamp!  
 - 🏫 I spend my time Mentoring Promineo Tech Back End Software Development Students, and Coding! 🖥️
 - 💬 Ask me about:  Java, MySQL, Databases, & SpringBoot  
