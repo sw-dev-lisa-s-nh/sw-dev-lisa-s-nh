@@ -9,7 +9,7 @@
 - 💬 Ask me about:  Java, MySQL, Databases, & SpringBoot  
     - 💻  If you are a Promineo Tech student, I'm here to help; if not, ask anyway!
 - 🎹 Some of my favorite things...
-    - 🎵 playing the cello
+    - 🎵 playing the cello 🎻
     - :es: speaking Spanish  
     - :fr: learning French
     - 🗺️ traveling
