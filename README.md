@@ -4,7 +4,7 @@
 - 🌎 I’m looking for a Back End  or Full Stack Web Development Job!  
 - 🌳 I’m branching into Front End Web Development 
      - 💻 after studying JavaScript on my own, I'm jumping into a Front End Coding Bootcamp!  
-     - ✅ JavaScript  ✅ HTML ✅ CSS -- and on to Bootstrap, JQuery, AJAX, React and more!
+     - ✅ JavaScript  ✅ HTML  ✅ CSS  ✅Bootstrap -- moving on to JQuery, AJAX, React and more!
 - 🏫 I spend my time Mentoring Promineo Tech Back End Software Development Students, and Coding! 🖥️
 - 💬 Ask me about:  Java, MySQL, Databases, & SpringBoot  
     - 💻  If you are a Promineo Tech student, I'm here to help; if not, ask anyway!
