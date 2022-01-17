@@ -1,6 +1,6 @@
 ### Hi there 
 
-- 👋 Greetings! I'm @sw-dev-lisa-s-nh  🌲 ❄️ ⛰️ 🍂 🌻 🏖️
+- 👋 Welcome! Bienvenidos! Bienvenue! I'm @sw-dev-lisa-s-nh  🌲 ❄️ ⛰️ 🍂 🌻 🏖️
 - 🌎 I love writing code -- and would love to be coding full-time! (Back-End, Front-End or Full-Stack Dev)  
 - 🌳 I’m branching into Front End Web Development 
      - 💻 after studying JavaScript on my own, I'm halfway through a Front End Coding Bootcamp!  
