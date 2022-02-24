@@ -13,7 +13,7 @@
     - :es: speaking Spanish  
     - :fr: learning French
     - 🗺️ traveling
-    - ⛪ leading worship 🎶 at my home church
+    - ⛪ leading worship 🎶 at my home church, and with The Chick Band 🐤
     - :coffee: coffee, 🍣 sushi, & 🍨 ice cream
     - 💭 discussing life with friends
 - 🏈 Obscure random fact:  I am a Green Bay Packers shareholder.  Go Pack Go!
