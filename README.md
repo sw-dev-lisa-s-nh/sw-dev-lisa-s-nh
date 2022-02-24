@@ -8,7 +8,7 @@
 - 🏫 I spend my time Mentoring Promineo Tech Back End Software Development Students, and Coding! 🖥️
 - 💬 Ask me about:  Java, MySQL, Databases, & SpringBoot AND JavaScript, Chai & Mocha, HTML, CSS & Bootstrap
     - 💻  If you are a Promineo Tech student, I'm here to help; if not, ask anyway!
-- 🎹 There are a few of my favorite things :heart 
+- 🎹 There are a few of my favorite things ❤️ 
     - 🎵 playing the cello 🎻
     - :es: speaking Spanish  
     - :fr: learning French
