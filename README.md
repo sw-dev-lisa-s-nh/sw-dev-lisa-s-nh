@@ -3,8 +3,8 @@
 - 👋 Welcome! Bienvenidos! Bienvenue! I'm @sw-dev-lisa-s-nh  🌲 ❄️ ⛰️ 🍂 🌻 🏖️
 - 🌎 I love writing code -- and would love to be coding full-time! (Back-End, Front-End or Full-Stack Dev)  
 - 🌳 I’m branching into Front End Web Development 
-     - 💻 after studying JavaScript on my own, I'm 8/9 of the way through a Front End Coding Bootcamp!  
-     - ✅ JavaScript  ✅ HTML   ✅ CSS   ✅Bootstrap   ✅ JQuery   ✅ AJAX, &  ✅ Intro to React!   ▶️ CRUD with React, here I come!
+     - 💻 after studying JavaScript on my own, I just graduated from a Front End Coding Bootcamp!  
+     - ✅ JavaScript  ✅ HTML   ✅ CSS   ✅Bootstrap   ✅ JQuery   ✅ AJAX  ✅ Intro to React &  ✅  CRUD with React!
 - 🏫 I spend my time Mentoring Promineo Tech Back End Software Development Students, and Coding! 🖥️
 - 💬 Ask me about:  Java, MySQL, Databases, & SpringBoot AND JavaScript, Chai & Mocha, HTML, CSS & Bootstrap
     - 💻  If you are a Promineo Tech student, I'm here to help; if not, ask anyway!
