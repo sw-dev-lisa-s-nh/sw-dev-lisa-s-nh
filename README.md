@@ -1,7 +1,7 @@
 ### Hi there 
 
 - 👋 Welcome! Bienvenidos! Bienvenue! I'm @sw-dev-lisa-s-nh  🌲 ❄️ ⛰️ 🍂 🌻 🏖️
-- 🌎 I love writing code -- and would love to be coding full-time! (Back-End, Front-End or Full-Stack Dev)  
+- 🌎 I love writing code -- and would love to be coding full-time! (**Back-End Dev**, Full-Stack Dev, or Front-End Dev)  
 - 🌳 I’m branching into Front End Web Development 
      - 💻 after studying JavaScript on my own, I just graduated from a Front End Coding Bootcamp!  
      - ✅ JavaScript  ✅ HTML   ✅ CSS   ✅Bootstrap   ✅ JQuery   ✅ AJAX  ✅ Intro to React &  ✅  CRUD with React!
