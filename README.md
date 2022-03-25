@@ -17,6 +17,6 @@
     - :coffee: coffee, 🍣 sushi, & 🍨 ice cream
     - 💭 discussing life with friends
 - 🏈 Obscure random fact:  I am a Green Bay Packers shareholder --Go Pack Go!
--    and a die-hard fan of UW-Madison sports -- On Wisconsin!
+- 🦡 and a die-hard fan of UW-Madison sports -- On Wisconsin!
 - 🌟 My super powers:  Finding obscure typos 👀 in code & troubleshooting 💡
 - 📫 How to reach me:  LinkedIn
