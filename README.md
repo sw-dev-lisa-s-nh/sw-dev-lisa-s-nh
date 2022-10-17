@@ -5,7 +5,7 @@
 - 🌳 I’m branching into Front End Web Development 
      - 💻 after studying JavaScript on my own, I just graduated from a Front End Coding Bootcamp!  
      - ✅ JavaScript  ✅ HTML   ✅ CSS   ✅Bootstrap   ✅ JQuery   ✅ AJAX  ✅ Intro to React &  ✅  CRUD with React!
-- 🏫 I spend my time Mentoring Promineo Tech Back End Software Development Students, and Coding! 🖥️
+- 🏫 I spend my time Improving the Promineo Tech Front End & Back End Software Development Curriculum and Coding! 🖥️
 - 💬 Ask me about:  Java, MySQL, Databases, & SpringBoot AND JavaScript, Chai & Mocha, HTML, CSS & Bootstrap
     - 💻  If you are a Promineo Tech student, I'm here to help; if not, ask anyway!
 - 🎹 These are a few of my favorite things ❤️ 
