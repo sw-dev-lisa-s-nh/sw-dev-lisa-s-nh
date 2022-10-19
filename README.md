@@ -1,6 +1,6 @@
 ### Hi there 
 
-- 👋 Welcome! Bienvenidos! Bienvenue! I'm @sw-dev-lisa-s-nh  🌲 ❄️ ⛰️ 🍂 🌻 🏖️
+- 👋 Welcome! Bienvenidos! Bienvenue! I'm @sw-dev-lisa-s-nh  🌲 ❄️ ⛰️ 🍂 🌻 🏖️ :lilac
 - 🌎 I love writing code -- and would love to be coding full-time! (**Back-End Dev**, Full-Stack Dev, or Front-End Dev)  
 - 🏫 I spend my time Improving the Promineo Tech Front End & Back End Software Development Curriculum and Coding! 🖥️
 - 🌳 Back End and Front End Coding Bootcamp Graduate
