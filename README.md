@@ -2,10 +2,10 @@
 
 - 👋 Welcome! Bienvenidos! Bienvenue! I'm @sw-dev-lisa-s-nh  🍂 🌷 🌲 ❄️ ⛰️ 🏖️ 🌄
 - 🌎 I love writing code -- and would love to be coding full-time! (**Back-End Dev**, Full-Stack Dev, or Front-End Dev)  
-- 🏫 I spend my time Improving the Promineo Tech Front End & Back End Software Development Curriculum and Coding! 🖥️
+- 🏫 I spend my time Coding, Loving on my family, and playing the Cello! 🖥️
 - 🌳 Back End and Front End Coding Bootcamp Graduate
 - 💬 Ask me about:  Java, MySQL, Databases, & SpringBoot, JavaScript, Chai & Mocha, HTML, CSS, Bootstrap, JQuery, AJAX & React!
-    - 💻  If you are a Promineo Tech student, I'm here to help; if not, ask anyway!
+    - 💻  I'm here to help; ask anyway!
 - 🎹 These are a few of my favorite things ❤️ 
     - 🎵 playing the cello 🎻
     - :es: speaking Spanish  
