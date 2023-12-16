@@ -3,9 +3,14 @@
 - 👋 Welcome! Bienvenidos! Bienvenue! I'm @sw-dev-lisa-s-nh  🍂 🌷 🌲 ❄️ ⛰️ 🏖️ 🌄
 - 🌎 I love writing code -- and would love to be coding full-time! (**Back-End Dev**, Full-Stack Dev, or Front-End Dev)  
 - 🏫 I spend my time Coding, Loving on my family, and playing the Cello! 🖥️
-- 🌳 Back End and Front End Coding Bootcamp Graduate
-- 💬 Ask me about:  Java, MySQL, Databases, & SpringBoot, JavaScript, Chai & Mocha, HTML, CSS, Bootstrap, JQuery, AJAX & React!
-    - 💻  I'm here to help; ask anyway!
+- 🌳 Full Stack Developer
+    - BE: Java, Rdb, MySQL, Databases, REST APIs, SpringBoot,
+    - FE: JavaScript, Chai & Mocha, HTML, CSS, Bootstrap, JQuery, AJAX & React!
+    - Ruby on Rails, and more!
+- 💬 Want to talk?
+    - I'm happy to talk about tech!
+    - I've been coding for the majority of my life!
+    - I love learning new tech stacks!
 - 🎹 These are a few of my favorite things ❤️ 
     - 🎵 playing the cello 🎻
     - :es: speaking Spanish  
