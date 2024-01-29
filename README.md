@@ -4,9 +4,10 @@
 - 🌎 I love writing code -- and would love to be coding full-time! (**Back-End Dev**, Full-Stack Dev, or Front-End Dev)  
 - 🏫 I spend my time Coding, Loving on my family, and playing the Cello! 🖥️
 - 🌳 Full Stack Developer
-    - BE: Java, Rdb, MySQL, Databases, REST APIs, SpringBoot,
-    - FE: JavaScript, Chai & Mocha, HTML, CSS, Bootstrap, JQuery, AJAX & React!
-    - Ruby on Rails, and more!
+    - BE: Java, Rdb, MySQL, Databases, REST APIs, SpringBoot, JDBC & JPA
+    - FE: JavaScript, Chai & Mocha, HTML, CSS, Bootstrap, JQuery, AJAX & React
+    - IDE: Eclipse, IntelliJ, VSCode, MySQLWorkbench, DBeaver, & others
+    - Other:  Ruby on Rails, C++, OOP, & more
 - 💬 Want to talk?
     - I'm happy to talk about tech!
     - I've been coding for the majority of my life!
