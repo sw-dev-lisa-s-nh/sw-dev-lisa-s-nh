@@ -2,14 +2,14 @@
 
 - 👋 Welcome! Bienvenidos! Bienvenue! I'm  ![shields](https://img.shields.io/badge/github-sw--dev--lisa--s--nh-important)  🍂 🌷 🌲 ❄️ ⛰️ 🏖️ 🌄
 - 🌎 I love writing code -- and would love to be coding full-time! (**Back-End Dev**, Full-Stack Dev, or Front-End Dev)  
-- 🏫 I spend my time coding, loving on my family, and playing the cello! 🖥️
+- 🏫 I spend my time coding 🖥️, loving on my family ♥️, and playing the cello 🎻! 
 - 🌳 Full Stack Developer
-    - BE: ![shields](https://img.shields.io/badge/language-Java-blue) ![shields](https://img.shields.io/badge/db-Rdb-blue) ![shields](https://img.shields.io/badge/dblanguage-MySQL-blue)  REST APIs, SpringBoot, Jdbc & JPA
-    - FE: ![JavaScript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript), Chai & Mocha, HTML, CSS, Bootstrap, JQuery, AJAX & React
-    - IDE: Eclipse, IntelliJ, VSCode, MySQLWorkbench, DBeaver, & others
-    - Other:  Ruby on Rails, C++, OOP, & more
+    - **BE**: ![shields](https://img.shields.io/badge/language-Java-blue) ![shields](https://img.shields.io/badge/db-Rdb-blue) ![shields](https://img.shields.io/badge/dblanguage-MySQL-blue)  ![shields](https://img.shields.io/badge/testing-JUnit-blue) REST APIs, SpringBoot, Jdbc & JPA
+    - **FE**: ![JavaScript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript), ![shields](https://img.shields.io/badge/testing-chai%20&%20mocha-blue)  HTML, CSS, Bootstrap, JQuery, AJAX & React
+    - **IDE**: Eclipse, IntelliJ, VSCode, MySQLWorkbench, DBeaver, & others
+    - **Other**:  Ruby on Rails, C++, OOP, & more
 - 💬 Want to talk?
-    - I'm happy to talk about tech!
+    - I'm happy to talk about tech! Reach out for a virtual coffee!
     - I've been coding for the majority of my life!
     - I love learning new tech stacks!
 - 🎹 These are a few of my favorite things ❤️ 
