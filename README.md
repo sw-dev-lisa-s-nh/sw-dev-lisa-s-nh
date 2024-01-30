@@ -34,5 +34,35 @@
 
 ----------------------------------------------------------
 
+
+<h4 align="left">Technical Skills:</h4>
+<p align="center">
+
+<a href="[https://www.java.com](https://docs.oracle.com/en/java/javase/17/)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+
+
+
+<!---  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
+
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+
+<a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> 
+
+
+------------------------------
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sw-dev-lisa-s-nh&show_icons=true&locale=en" alt="sw-dev-lisa-s-nh" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sw-dev-lisa-s-nh&" alt="sw-dev-lisa-s-nh" /></p>
+
+--->
+</p>
+------------------------------
 <p></p>
 <p></p>
