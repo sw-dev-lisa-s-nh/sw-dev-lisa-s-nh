@@ -1,6 +1,6 @@
 ### Hi there 
 
-- 👋 Welcome! Bienvenidos! Bienvenue! I'm @sw-dev-lisa-s-nh  🍂 🌷 🌲 ❄️ ⛰️ 🏖️ 🌄
+- 👋 Welcome! Bienvenidos! Bienvenue! I'm  ![shields](https://img.shields.io/github-acct-name/sw-dev-lisa-s-nh-blue)  🍂 🌷 🌲 ❄️ ⛰️ 🏖️ 🌄
 - 🌎 I love writing code -- and would love to be coding full-time! (**Back-End Dev**, Full-Stack Dev, or Front-End Dev)  
 - 🏫 I spend my time Coding, Loving on my family, and playing the Cello! 🖥️
 - 🌳 Full Stack Developer
