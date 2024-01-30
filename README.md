@@ -1,7 +1,11 @@
-### Hi there 
+### Welcome! Bienvenidos! Bienvenue! 
 
-- 👋 Welcome! Bienvenidos! Bienvenue! I'm  ![shields](https://img.shields.io/badge/github-sw--dev--lisa--s--nh-important)  🍂 🌷 🌲 ❄️ ⛰️ 🏖️ 🌄
-- 🌎 I love writing code -- and would love to be coding full-time! (**Back-End Dev**, Full-Stack Dev, or Front-End Dev)  
+### I'm  ![shields](https://img.shields.io/badge/github-sw--dev--lisa--s--nh-important)  🍂 🌷 🌲 ❄️ ⛰️ 🏖️ 🌄
+
+----------------------------------------------------------
+<h4 align="left">Who Am I?</h4>
+
+- 🌎 I love writing code -- **Back-End**, Front-End, or Full-Stack
 - 🏫 I spend my time coding 🖥️, loving on my family ♥️, and playing the cello 🎻! 
 - 🌳 Full Stack Developer
     - **BE**: ![shields](https://img.shields.io/badge/language-Java-blue) ![shields](https://img.shields.io/badge/db-Rdb-blue) ![shields](https://img.shields.io/badge/dblanguage-MySQL-blue)  ![shields](https://img.shields.io/badge/testing-JUnit-blue) REST APIs, SpringBoot, Jdbc & JPA
@@ -23,4 +27,12 @@
 - 🏈 Obscure random fact:  I am a Green Bay Packers shareholder --Go Pack Go!
 - 🦡 and a die-hard fan of UW-Madison sports -- On Wisconsin!
 - 🌟 My super powers:  Finding obscure typos 👀 in code & troubleshooting 💡
-- 📫 How to reach me:  LinkedIn
+
+----------------------------------------------------------
+<h4 align="left">Connect with me:</h4>
+<a href="https://linkedin.com/in/lisamaattasmith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lisamaattasmith" height="30" width="40" /></a>
+
+----------------------------------------------------------
+
+<p></p>
+<p></p>
