@@ -38,7 +38,7 @@
 <h4 align="left">Technical Skills:</h4>
 <p align="center">
 
-<a href="[https://www.java.com](https://docs.oracle.com/en/java/javase/17/)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+<a href="https://docs.oracle.com/en/java/javase/17/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 
 
 
