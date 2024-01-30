@@ -38,13 +38,13 @@
 
 
 <h4 align="left">Technical Skills:  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://docs.oracle.com/en/java/javase/17/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://dev.mysql.com/doc/refman/8.0/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="30" height="30"/> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="30" height="30"/>  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="30" height="30"/> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="30" height="30"/>  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="30" height="30"/> 
+<a href="https://docs.oracle.com/en/java/javase/17/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> </a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://dev.mysql.com/doc/refman/8.0/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="30" height="30"/>  </a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="30" height="30"/>   </a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="30" height="30"/>  </a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="30" height="30"/>   </a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>  </a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="30" height="30"/>  </a>
 </h4>
 
 
