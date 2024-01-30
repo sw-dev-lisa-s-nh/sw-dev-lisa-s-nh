@@ -1,11 +1,11 @@
 ### Hi there 
 
-- 👋 Welcome! Bienvenidos! Bienvenue! I'm  ![shields](https://img.shields.io/github-acct-name/sw-dev-lisa-s-nh-blue)  🍂 🌷 🌲 ❄️ ⛰️ 🏖️ 🌄
+- 👋 Welcome! Bienvenidos! Bienvenue! I'm  ![shields](https://img.shields.io/badge/github-sw--dev--lisa--s--nh-important)  🍂 🌷 🌲 ❄️ ⛰️ 🏖️ 🌄
 - 🌎 I love writing code -- and would love to be coding full-time! (**Back-End Dev**, Full-Stack Dev, or Front-End Dev)  
-- 🏫 I spend my time Coding, Loving on my family, and playing the Cello! 🖥️
+- 🏫 I spend my time coding, loving on my family, and playing the cello! 🖥️
 - 🌳 Full Stack Developer
-    - BE: Java, Rdb, MySQL, Databases, REST APIs, SpringBoot, JDBC & JPA
-    - FE: JavaScript, Chai & Mocha, HTML, CSS, Bootstrap, JQuery, AJAX & React
+    - BE: ![shields](https://img.shields.io/badge/language-Java-blue) ![shields](https://img.shields.io/badge/db-Rdb-blue) ![shields](https://img.shields.io/badge/dblanguage-MySQL-blue)  REST APIs, SpringBoot, Jdbc & JPA
+    - FE: ![JavaScript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript), Chai & Mocha, HTML, CSS, Bootstrap, JQuery, AJAX & React
     - IDE: Eclipse, IntelliJ, VSCode, MySQLWorkbench, DBeaver, & others
     - Other:  Ruby on Rails, C++, OOP, & more
 - 💬 Want to talk?
